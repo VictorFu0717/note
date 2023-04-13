@@ -2,7 +2,11 @@
 https://learnopencv.com/object-detection-using-yolov5-and-opencv-dnn-in-c-and-python/
 
 build-opencv-with-cuda-and-cudnn
+(windows)
 https://machinelearningprojects.net/build-opencv-with-cuda-and-cudnn/
+(ubuntu)
+https://medium.com/@pydoni/how-to-install-cuda-11-4-cudnn-8-2-opencv-4-5-on-ubuntu-20-04-65c4aa415a7b
+https://blog.csdn.net/Flag_ing/article/details/109508374
 
 training lora model
 https://www.youtube.com/watch?v=gFBmIL51x-M
